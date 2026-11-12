@@ -1,8 +1,8 @@
 cask "inputconfig" do
-  version "1.8"
-  sha256 "6d52f6ae7f78930211869dbec3de8cb3b6272b710c01d7c7e83e860274ea3237"
+  version "1.9"
+  sha256 "c95a66236ab020b1a1bbed4907912631aae9b66a86cf72663563095d6985fd38"
 
-  url "https://github.com/ryleighnewman/homebrew-inputconfig/releases/download/v#{version}-34/InputConfig-#{version}.zip"
+  url "https://github.com/ryleighnewman/homebrew-inputconfig/releases/download/v#{version}-39/InputConfig-#{version}.zip"
   name "InputConfig"
   desc "Controller mapper: map gamepad buttons and sticks to keys and the mouse"
   homepage "https://inputconfig.com"
